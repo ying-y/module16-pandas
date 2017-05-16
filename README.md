@@ -1,4 +1,4 @@
-# Module 15: Pandas
+# Module 16: Pandas
 
 This module introduces the _Python Data Analysis_ library [**`pandas`**](http://pandas.pydata.org/)&mdash;a set of modules, functions, and classes used to for easily and efficiently performing data analysis&mdash;`panda`'s speciality is its highly optimized performance when working with large data sets. `pandas` is the most common library used with Python for Data Science (and mirrors the `R` language in many ways, allowing programmers to easily move between the two).
 In this module, we will discuss the two main data structures used by `pandas` (_Series_ and _DataFrames_) and how to use them to organize and work with data.
